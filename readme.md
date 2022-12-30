@@ -19,7 +19,7 @@ This repository contains student exercise files from the Python section of the I
 
 **Exercise_05** - Introduced the writing of functions (blocks of code run when it is called), looking at function anatomy, passing of values, hints, scope, and map and lambda functions specific to Python.
 
-**Exercise_06** - Covered the topic of Python modules and packages, with the module being a Python file containing a function and a package a directory containing a collection of modules.
+**Exercise_06** - Covered the topic of Python modules and packages, with a module being a Python file containing a function, and a package a directory containing a collection of modules.
 
 **Exercise_07** - “The greatest mistake is to imagine that we never err.” (Thomas Carlyle). Students were shown how to handle errors using try and except keywords, input validation and raising exceptions.  
 
@@ -31,11 +31,21 @@ This repository contains student exercise files from the Python section of the I
 
 **Exercise_11** - Python and network protocols were used in the exercise to communicate and transfer files using protocols such as FTP, TCP, UDP, and Multicast.
 
-**Exercise_12** - Students were shown how to create a Python project folder structure in the final exercise.
+**Exercise_12** - Students were shown how to create a folder structure for a programming project in the final exercise.
+
+**GitHub**
+
+Students also learnt how to use Git and GitHub as part of the Infrastructure as Code module. For practice, they were required to create this repository to store their Python exercise files, creating a branching structure with a feature branch to test their knowledge and skills.  The readme.md file was created through this feature branch.
 
 ### Project Status
 
-All the walkthroughs were completed successfully, with all sample code typed and exercises completed. 
+All the walkthroughs were completed successfully, with all sample code typed and exercises completed. Having mastered the basics, the recommended route to becoming an accomplished Python programmer is to code, code,  code. 
+
+![joke--comic_sleep-pos](./joke--comic_sleep-pos.jpg)
+
+### Other Courses
+
+Check out the  [PowerShell](https://github.com/L00177769/PowerShell.git) course also from the Infrastructure as Code Module.
 
 ### Author
 
